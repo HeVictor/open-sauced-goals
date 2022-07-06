@@ -1,26 +1,26 @@
 [
   {
     "full_name": "facebook/react",
-    "stargazers_count": 190727,
-    "open_issues_count": 996,
-    "forks_count": 39320
+    "stargazers_count": 190877,
+    "open_issues_count": 1002,
+    "forks_count": 39380
   },
   {
     "full_name": "elastic/elasticsearch",
-    "stargazers_count": 60214,
-    "open_issues_count": 3929,
-    "forks_count": 21922
+    "stargazers_count": 60259,
+    "open_issues_count": 3923,
+    "forks_count": 21931
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 710,
-    "open_issues_count": 16,
-    "forks_count": 298
+    "stargazers_count": 712,
+    "open_issues_count": 17,
+    "forks_count": 309
   },
   {
     "full_name": "kentcdodds/react-fundamentals",
-    "stargazers_count": 4048,
-    "open_issues_count": 3,
-    "forks_count": 2365
+    "stargazers_count": 4060,
+    "open_issues_count": 7,
+    "forks_count": 2377
   }
 ]
